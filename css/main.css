@@ -104,6 +104,9 @@ header a {
     font-size: 16px;
     line-height: 22px;
     color: #111517;
+    background: transparent;
+    border: none;
+    outline: none;
 }
 
 .header-mode::before{
